@@ -9,6 +9,20 @@
 
 class Payment {
 
+private:
+    bool payStatus;
+    bool typePayment;
+    double total;
+    int orderId;
+
+public:
+
+    Payment();
+    ~Payment();
+
+    bool getPayStatus();
+    void pay();
+
 };
 
 

@@ -1,0 +1,3 @@
+C:/Users/gilju/OneDrive/Escritorio/Restaurante/cmake-build-debug/CMakeFiles/Restaurante.dir
+C:/Users/gilju/OneDrive/Escritorio/Restaurante/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gilju/OneDrive/Escritorio/Restaurante/cmake-build-debug/CMakeFiles/rebuild_cache.dir
