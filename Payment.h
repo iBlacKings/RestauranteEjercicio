@@ -5,19 +5,21 @@
 #ifndef PAYMENT_H
 #define PAYMENT_H
 
+#include <iostream>
+#include <limits>
 
 
 class Payment {
 
 private:
-    bool payStatus;
-    bool typePayment;
+    bool payStatus; //always it starts on false
+    bool typePayment; //False = cash / True = vcc
     double total;
     int orderId;
 
 public:
 
-    Payment();
+    Payment(double total, int orderId);
     ~Payment();
 
     bool getPayStatus();
